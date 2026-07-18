@@ -208,9 +208,8 @@ Bangalore-House-Price/
 ├── templates/              # HTML templates for the Flask app
 │   └── index.html
 │
-├── static/                 # CSS, JS, and static assets
-│   ├── css/
-│   └── js/
+├── assets/                 # static assets
+│   
 │
 ├── main.py                 # Flask application entry point
 ├── Predictor.ipynb         # Jupyter notebook with full ML workflow
@@ -384,8 +383,8 @@ If you found this project helpful or interesting, please consider giving it a **
 **Vikash Kumar Singh**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikashkumarsingh21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-kumar-0803r/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vikash-portfolio-ochre.vercel.app/)
 
 </div>
 
